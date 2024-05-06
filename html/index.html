@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+   <link rel="stylesheet" href="/css/main.css">
+   <title>Registro Estudiantes</title>
+</head>
+
+<body>
+   <header>
+      <nav>
+         <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Alumno</a></li>
+            <li><a href="#">Profesor</a></li>
+            <li><a href="#">Estudiantes</a></li>
+         </ul>
+      </nav>
+   </header>
+
+   <h1 class="encabezado">REGISTRO DE ESTUDIANTES</h1>
+
+   <main>
+      <form id="formulario">
+         <label for="materia">Materia:</label>
+         <select name="materias" id="materia" required>
+            <option value="matematica">Matematica</option>
+            <option value="fisica">Fisica</option>
+            <option value="quimica">Quimica</option>
+            <option value="historia">Historia</option>
+            <option value="ciencia">Ciencia</option>
+            <option value="geografia">Geografia</option>
+         </select><br>
+         <label for="grado">Grado:</label>
+         <select name="grado" id="grado" required>
+            <option value="1">1 año</option>
+            <option value="2">2 año</option>
+            <option value="3">3 año</option>
+            <option value="4">4 año</option>
+            <option value="5">5 año</option>
+            <option value="6">6 año</option>
+         </select><br>
+         <label for="dni">DNI:</label>
+         <input type="text" id="dni" name="dni" placeholder="Dni" /><br>
+         <label for="nombre">Nombre:</label>
+         <input type="text" id="nombre" name="nombre" placeholder="Nombre"><br>
+         <label for="apellido">Apellido:</label>
+         <input type="text" id="apellido" name="apellido" placeholder="Apellido"><br>
+         <label for="nota1">Nota 1:</label>
+         <input type="number" id="nota1" name="nota1" min="0" max="10"><br>
+         <label for="nota2">Nota 2:</label>
+         <input type="number" id="nota2" name="nota2" min="0" max="10"><br>
+         <label for="nota3">Nota 3:</label>
+         <input type="number" id="nota3" name="nota3" min="0" max="10"><br>
+         <label for="nota4">Nota 4:</label>
+         <input type="number" id="nota4" name="nota4" min="0" max="10"><br>
+         <label for="nota5">Nota 5:</label>
+         <input type="number" id="nota5" name="nota5" min="0" max="10"><br>
+         <button type="button" id="guardarBtn">Guardar</button>
+         <button type="button" id="cancelarBtn">Cancelar</button><br><br>
+         <div>
+            <input type="text" id="inputDNI" class="inputDNI" placeholder="Ingrese el DNI">
+            <button type="button" id="buscarBtn" >Buscar</button>
+         </div>
+         <input type="text" id="inputGrado" class="inputGrado" placeholder="Ingrese el Grado">
+         <button type="button" id="gradoBtn">Buscar</button>
+         <div id="resultado"></div>
+      </form>
+   </main>
+
+   <footer></footer>
+   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+   <script src="/js/main.js"> </script>
+</body>
+
+</html>

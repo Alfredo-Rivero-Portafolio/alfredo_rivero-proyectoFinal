@@ -1,0 +1,219 @@
+[
+   {
+      "grado": "1 año",
+      "dni": "11111111",
+      "nombre": "Estudiante1",
+      "apellido": "Apellido1",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "1 año",
+      "dni": "22222222",
+      "nombre": "Estudiante2",
+      "apellido": "Apellido2",
+      "materia": "Física",
+      "promedio": 9
+   },
+   {
+      "grado": "1 año",
+      "dni": "33333333",
+      "nombre": "Estudiante3",
+      "apellido": "Apellido3",
+      "materia": "Química",
+      "promedio": 9
+   },
+   {
+      "grado": "1 año",
+      "dni": "44444444",
+      "nombre": "Estudiante4",
+      "apellido": "Apellido4",
+      "materia": "Historia",
+      "promedio": 9
+   },
+   {
+      "grado": "1 año",
+      "dni": "55555555",
+      "nombre": "Estudiante5",
+      "apellido": "Apellido5",
+      "materia": "Ciencia",
+      "promedio": 9
+   },
+   {
+      "grado": "2 año",
+      "dni": "66666666",
+      "nombre": "Estudiante6",
+      "apellido": "Apellido6",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "2 año",
+      "dni": "77777777",
+      "nombre": "Estudiante7",
+      "apellido": "Apellido7",
+      "materia": "Física",
+      "promedio": 9
+   },
+   {
+      "grado": "2 año",
+      "dni": "88888888",
+      "nombre": "Estudiante8",
+      "apellido": "Apellido8",
+      "materia": "Química",
+      "promedio": 9
+   },
+   {
+      "grado": "2 año",
+      "dni": "99999999",
+      "nombre": "Estudiante9",
+      "apellido": "Apellido9",
+      "materia": "Historia",
+      "promedio": 9
+   },
+   {
+      "grado": "2 año",
+      "dni": "00000000",
+      "nombre": "Estudiante10",
+      "apellido": "Apellido10",
+      "materia": "Geografía",
+      "promedio": 9
+   },
+   {
+      "grado": "3 año",
+      "dni": "12345678",
+      "nombre": "Estudiante11",
+      "apellido": "Apellido11",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "3 año",
+      "dni": "23456789",
+      "nombre": "Estudiante12",
+      "apellido": "Apellido12",
+      "materia": "Física",
+      "promedio": 9
+   },
+   {
+      "grado": "3 año",
+      "dni": "34567890",
+      "nombre": "Estudiante13",
+      "apellido": "Apellido13",
+      "materia": "Química",
+      "promedio": 9
+   },
+   {
+      "grado": "3 año",
+      "dni": "45678901",
+      "nombre": "Estudiante14",
+      "apellido": "Apellido14",
+      "materia": "Historia",
+      "promedio": 9
+   },
+   {
+      "grado": "3 año",
+      "dni": "56789012",
+      "nombre": "Estudiante15",
+      "apellido": "Apellido15",
+      "materia": "Ciencia",
+      "promedio": 9
+   },
+   {
+      "grado": "4 año",
+      "dni": "45678901",
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "4 año",
+      "dni": "78901234",
+      "nombre": "Luis",
+      "apellido": "Hernández",
+      "materia": "Ciencia",
+      "promedio": 9
+   },
+   {
+      "grado": "4 año",
+      "dni": "01234567",
+      "nombre": "Lucía",
+      "apellido": "Gómez",
+      "materia": "Quimica",
+      "promedio": 9
+   },
+   {
+      "grado": "4 año",
+      "dni": "34567890",
+      "nombre": "Sara",
+      "apellido": "Jiménez",
+      "materia": "Fisica",
+      "promedio": 9
+      
+   },
+   {
+      "grado": "5 año",
+      "dni": "45678901",
+      "nombre": "Pablo",
+      "apellido": "Torres",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "5 año",
+      "dni": "12345678",
+      "nombre": "Elena",
+      "apellido": "Muñoz",
+      "materia": "Historia",
+      "promedio": 9
+   },
+   {
+      "grado":"5 año",
+      "dni": "89012345",
+      "nombre": "Sofía",
+      "apellido": "Díaz",
+      "materia": "Ciencia",
+      "promedio": 9
+   },
+   {
+      "grado": "5 año",
+      "dni": "56789012",
+      "nombre": "Carlos",
+      "apellido": "López",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "6 año",
+      "dni": "67890123",
+      "nombre": "Laura",
+      "apellido": "Sánchez",
+      "materia": "Geografía",
+      "promedio": 9
+   },
+   {
+      "grado": "6 año",
+      "dni": "90123456",
+      "nombre": "Javier",
+      "apellido": "Romero",
+      "materia": "Ciencia",
+      "promedio": 9
+   },
+   {
+      "grado": "6 año",
+      "dni": "23456789",
+      "nombre": "Diego",
+      "apellido": "Alvarez",
+      "materia": "Matemática",
+      "promedio": 9
+   },
+   {
+      "grado": "6 año",
+      "dni": "56789012",
+      "nombre": "Carmen",
+      "apellido": "Ramírez",
+      "materia": "Geografía",
+      "promedio": 9
+   }
+]
